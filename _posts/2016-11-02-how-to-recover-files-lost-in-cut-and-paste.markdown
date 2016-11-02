@@ -4,6 +4,7 @@ title: How to Recover Files Lost in Cut and Paste
 layout: post
 tags: [recoverfileslostincutandpaste, recoverfileslostaftercutandpaste, recoverfileslostduringcutandpaste, RecoverCutFilesfromSDCard]
 categories: [Software]
+permalink: how-to-recover-files-lost-in-cut-and-paste
 ---
 Data loss is the common scenario faced by the computer users. But facing data loss issue during cut and paste is the worst situation for user.  To explain my view I would like to add a practical scenario in this blog post. 
 
